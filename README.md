@@ -13,7 +13,8 @@ This is a basic Flutter application that utilizes the [PokeAPI](https://pokeapi.
 ## Assignment
 
 Please add a new screen named `pokemon_detail` and fetch
-Pokemon by url from homepage.
+Pokemon detail by url from homepage. Follow the UI below.
+![pokemon_detail](./pokemon_detail.png)
 
 To identify where to add the necessary code, you can search for the `TODO!` comments within the existing codebase. These comments typically indicate places where additional code or specific tasks need to be implemented.
 
